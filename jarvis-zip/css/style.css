@@ -267,7 +267,7 @@ body.multipage nav {
 /*== DARK NAVIGATION ==*/
 nav.dark {
 	background: #151515;
-	border-bottom: 1px solid #000000;	
+	border-bottom: 1px solid #000000;
 }
 /*== LIGHT NAVIGATION ==*/
 nav.light {
@@ -288,11 +288,11 @@ nav.light.sticky {
 /*== TRANSPARENT NAVIGATION ==*/
 nav.transparent {
 	background: transparent;
-	border-bottom: 1px solid transparent;	
+	border-bottom: 1px solid transparent;
 	box-shadow: none;
 	position:fixed;
 	width:100%;
-	top:0;	
+	top:0;
 }
 
 nav.transparent a {
@@ -411,10 +411,10 @@ nav.light .main-menu li.active a, nav.dark .main-menu li.active a {
 	line-height: 1;
 }
 .home-parallax .home-slide-content {
-	padding: 55px 10px 50px;	
+	padding: 55px 10px 50px;
 	background: rgba(0, 0, 0, 0.3);
 	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000, endColorstr=#4C000000);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000, endColorstr=#4C000000);	
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000, endColorstr=#4C000000);
 	color: #ffffff;
 }
 .home-gradient .home-slide-content {
@@ -495,7 +495,7 @@ nav.light .main-menu li.active a, nav.dark .main-menu li.active a {
 	padding: 10px 10px 0;
 	background: rgba(255, 255, 255, 0.63);
 	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);	
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
 	box-shadow: 0px 0px 0px 10px rgba(255, 255, 255, 0.32);
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -612,7 +612,7 @@ p.quote {
 /*--------------------------------------------------------
 /* PARALLAX SECTION 2
 --------------------------------------------------------*/
-	
+
 .bg2 {
 	background-image: url(../images/parallax/parallax2.jpg);
 }
@@ -626,7 +626,7 @@ p.quote {
 }
 #twitter-feed li {
 	margin-bottom: 20px;
-	
+
 }
 .twitter-feed-icon i {
 	font-size: 22px;
@@ -819,7 +819,7 @@ p.quote {
 }
 
 
-/*======== HOME SECTION ========*/	
+/*======== HOME SECTION ========*/
 #home {
 	position: relative;
 	overflow: hidden;
@@ -843,7 +843,7 @@ p.quote {
 	background-position: center top;
 	background-color: #FFD600;
 }
-/*======== HOME LOGO ========*/	
+/*======== HOME LOGO ========*/
 #home h1 {
 	font-size: 60px;
 }
@@ -1249,7 +1249,7 @@ p.quote {
 }
 /*======== BLOG PAGE ========*/
 
-	
+
 .post {
 	margin-bottom: 100px;
 }
@@ -1529,7 +1529,7 @@ p.quote {
 	color: black;
 	background: rgba(255, 255, 255, 0.50);
 	-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);	
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4Cffffff, endColorstr=#4Cffffff);
 }
 .copyright {
 	width: 100%;
@@ -1848,7 +1848,7 @@ input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focu
 nav.colored, nav.light.colored {
 	background: #ffd600;
 	box-shadow: 0px 4px 15px rgba(0,0,0,0.07);
-	border-bottom: 0px;	
+	border-bottom: 0px;
 }
 
 nav.colored a{
@@ -1914,7 +1914,3 @@ a#button-newsletter {
     height: 100% !important;
     position: absolute;
 }
-
-
-
-
