@@ -226,10 +226,10 @@ html[xmlns] .slides {
 	border-radius: 50%;
 }
 .flex-control-nav li a:hover {
-	background: #FFD600;
+	background: #C0A025;
 }
 .flex-control-nav li a.flex-active {
-	background: #FFD600;
+	background: #C0A025;
 	cursor: default;
 }
 .flex-caption {
@@ -254,7 +254,7 @@ html[xmlns] .slides {
 	bottom: 0;
 	cursor: pointer;
 	text-indent: -999em;
-	background-color: #FFD600;
+	background-color: #C0A025;
 	border-radius: 50%;
 	border: 2px solid #ffffff;
 	background-size: 20px;

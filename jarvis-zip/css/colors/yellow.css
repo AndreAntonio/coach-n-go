@@ -1,22 +1,22 @@
 /*========== B A C K G R O U N D    S K I N S =============*/
 
 ::-moz-selection {
- background: #FFD600;
+ background: #C0A025;
 }
 ::selection {
-	background: #FFD600;
+	background: #C0A025;
 }
 nav.colored, nav.light.colored,
 .twitter-feed-icon i,
 .testimonial-icon i,
 .home-gradient,
 .home-parallax,
-#project-navigation ul li#prevProject a:hover, 
+#project-navigation ul li#prevProject a:hover,
 #project-navigation ul li#nextProject a:hover,
 #project-navigation ul li a:hover,
 #closeProject a:hover,
 .portfolio .portfolio-overlay,
-.pagination a.previous:hover, 
+.pagination a.previous:hover,
 .pagination a.next:hover,
 .rnr-icon-middle:hover,
 .service-box:hover,
@@ -24,7 +24,7 @@ nav.colored, nav.light.colored,
 .skillbar .skill-percentage,
 .flex-control-nav li a:hover,
 .flex-control-nav li a.flex-active,
-.testimonial-slider .flex-direction-nav li a, 
+.testimonial-slider .flex-direction-nav li a,
 .twitter-slider .flex-direction-nav li a,
 .color-block,
 .home1 .slabtextdone .slabtext.second-child,
@@ -38,7 +38,7 @@ nav.colored, nav.light.colored,
 .team-member:hover .team-desc,
 .service-box .service-icon,
 .modal .close {
-	background-color: #FFD600;
+	background-color: #C0A025;
 }
 
 
@@ -46,11 +46,11 @@ nav.colored, nav.light.colored,
 
 .title h1,
 .service-box .service-icon {
-	box-shadow:0px 0px 0px 3px #FFD600;
+	box-shadow:0px 0px 0px 3px #C0A025;
 }
 
 .tab a.selected {
-    box-shadow: 0px -3px 0px 0px #FFD600;
+    box-shadow: 0px -3px 0px 0px #C0A025;
 }
 
 
@@ -62,13 +62,13 @@ nav.colored, nav.light.colored,
 
 a,
 .highlight,
-nav.light .main-menu a:hover, 
+nav.light .main-menu a:hover,
 nav.dark .main-menu a:hover,
 nav.light .main-menu li.active a,
-nav.transparent .main-menu li.active a, 
+nav.transparent .main-menu li.active a,
 nav.dark .main-menu li.active a,
 .parallax .quote i,
-#filters ul li a:hover h3, 
+#filters ul li a:hover h3,
 #filters ul li a.active h3,
 .post-title a:hover,
 .post-tags li a:hover,
@@ -76,7 +76,7 @@ nav.dark .main-menu li.active a,
 .pages li a:hover,
 .home3 .slabtextdone .slabtext.second-child,
 .service-box:hover .service-icon {
-	color:#FFD600;
+	color:#C0A025;
 }
 
 
@@ -92,19 +92,16 @@ nav.dark .main-menu li.active a,
 blockquote p,
 .pullquote.align-right,
 .pullquote.align-left {
-	border-color:#ffd600;
+	border-color:#C0A025;
 }
 
 
 /*========== H O M E,  C O L O R   B L O C K    S K I N S =============*/
 .home-gradient, .color-block {
-	background-color: #FFD600;
-	background: -moz-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: -webkit-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: -o-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: -ms-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);	
+	background-color: #C0A025;
+	background: -moz-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: -webkit-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: -o-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: -ms-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
 }
-
-
-

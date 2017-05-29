@@ -45,11 +45,11 @@ BEGIN THEME STYLESHEET
 }
 
 ::-moz-selection {
- background: #FFD600;
+ background: #C0A025;
  color: white;
 }
 ::selection {
-	background: #FFD600;
+	background: #C0A025;
 	color: white;
 }
 a, a:visited, a:hover {
@@ -127,7 +127,7 @@ img {
 	height: auto;
 }
 a {
-	color: #FFD600;
+	color: #C0A025;
 	text-decoration: none;
 	outline: 0;
 	-webkit-transition: all 0.2s ease;
@@ -137,7 +137,7 @@ a {
 	transition: all 0.2s ease;
 }
 .highlight {
-	color: #FFD600;
+	color: #C0A025;
 }
 a:hover, a:focus {
 	color: #666666;
@@ -343,14 +343,14 @@ nav.light .main-menu a {
 	color: inherit;
 }
 nav.light .main-menu a:hover, nav.dark .main-menu a:hover {
-	color: #FFD600;
+	color: #C0A025;
 	transition: color 0.5s;
 	-moz-transition: color 0.5s;
 	-webkit-transition: color 0.5s;
 	-o-transition: color 0.5s;
 }
 nav.light .main-menu li.active a, nav.dark .main-menu li.active a {
-	color: #FFD600;
+	color: #C0A025;
 }
 .main-menu a i {
 	margin-right: 3px;
@@ -386,7 +386,7 @@ nav.light .main-menu li.active a, nav.dark .main-menu li.active a {
 	color: #ffffff;
 }
 .home1 .slabtextdone .slabtext.second-child {
-	background: #FFD600;
+	background: #C0A025;
 	padding: 15px 10px 0;
 	display: inline-block;
 	width: auto;
@@ -465,7 +465,7 @@ nav.light .main-menu li.active a, nav.dark .main-menu li.active a {
 .home3 .slabtextdone .slabtext.second-child {
 	display: inline-block;
 	width: auto;
-	color: #FFD600;
+	color: #C0A025;
 	text-shadow: none;
 	overflow: hidden;
 }
@@ -510,7 +510,7 @@ nav.light .main-menu li.active a, nav.dark .main-menu li.active a {
 	box-shadow: 0px 0px 0px 20px rgba(255, 255, 255, 0.32);
 }
 .home4 .slabtextdone .slabtext.second-child {
-	background: #FFD600;
+	background: #C0A025;
 	padding: 15px 10px 0;
 	display: inline-block;
 	width: auto;
@@ -595,7 +595,7 @@ p.quote {
 	margin: 0 5px;
 }
 .parallax .quote i {
-	color: #FFD600;
+	color: #C0A025;
 }
 .quote-author {
 	height: 24px;
@@ -634,7 +634,7 @@ p.quote {
 	color: #ffffff;
 	display: inline-block;
 	padding: 17px;
-	background: #FFD600;
+	background: #C0A025;
 	border-radius: 50%;
 	box-shadow: 0px 0px 0px 4px rgb(255, 255, 255);
 }
@@ -699,7 +699,7 @@ p.quote {
 	color: #ffffff;
 	display: inline-block;
 	padding: 17px;
-	background: #FFD600;
+	background: #C0A025;
 	border-radius: 50%;
 	box-shadow: 0px 0px 0px 4px rgb(255, 255, 255);
 }
@@ -739,12 +739,12 @@ p.quote {
 .color-block {
 	width: 100%;
 	height: 450px;
-	background-color: #FFD600;
-	background: -moz-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: -webkit-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: -o-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: -ms-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
+	background-color: #C0A025;
+	background: -moz-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: -webkit-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: -o-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: -ms-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
 	position: relative;
 	overflow: hidden;
 	color: #ffffff;
@@ -797,10 +797,10 @@ p.quote {
 	line-height: 0.8;
 	display: inline-block;
 	padding: 10px 10px 3px;
-	background: #FFD600;
+	background: #C0A025;
 	color: #fff;
 	border: 4px solid #ffffff;
-	box-shadow: 0px 0px 0px 3px #FFD600;
+	box-shadow: 0px 0px 0px 3px #C0A025;
 }
 .multipage .title h1 {
 	margin: 60px 0 40px;
@@ -830,18 +830,18 @@ p.quote {
 	z-index:10;
 }
 .home-gradient {
-	background-color: #FFD600;
-	background: -moz-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: -webkit-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: -o-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: -ms-radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
-	background: radial-gradient(center center, circle cover, #FFD600 0%, #E2BE01 100%);
+	background-color: #C0A025;
+	background: -moz-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: -webkit-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: -o-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: -ms-radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
+	background: radial-gradient(center center, circle cover, #C0A025 0%, #E2BE01 100%);
 }
 .home-parallax {
 	background: url(../images/parallax/parallax4.jpg) fixed;
 	background-size: cover;
 	background-position: center top;
-	background-color: #FFD600;
+	background-color: #C0A025;
 }
 /*======== HOME LOGO ========*/
 #home h1 {
@@ -853,6 +853,7 @@ p.quote {
 	display: block;
 	text-align: center;
 	width: 100%;
+
 }
 .home-fullscreenslider .home-logo, .home-fullscreenslider .home-logo-text {
 	margin: 60px 0 100px;
@@ -937,7 +938,7 @@ p.quote {
 	border: 2px solid;
 }
 #filters ul li a:hover h3, #filters ul li a.active h3 {
-	color: #FFD600;
+	color: #C0A025;
 }
 /*==== PORTFOLIO AJAX NAVIGATION =====*/
 #project-navigation {
@@ -984,10 +985,10 @@ p.quote {
 	transition: all 0.3s ease-in-out;
 }
 #project-navigation ul li#prevProject a:hover, #project-navigation ul li#nextProject a:hover {
-	background-color: #FFD600;
+	background-color: #C0A025;
 }
 #project-navigation ul li a:hover {
-	background-color: #FFD600;
+	background-color: #C0A025;
 }
 #project-navigation ul li a.disabled, #project-navigation ul li a.disabled:hover {
 	cursor: default;
@@ -1013,7 +1014,7 @@ p.quote {
 	border-radius: 3px;
 }
 #closeProject a:hover {
-	background: #FFD600;
+	background: #C0A025;
 }
 #closeProject a i {
 	font-size: 14px;
@@ -1141,7 +1142,7 @@ p.quote {
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
-	background: #FFD600;
+	background: #C0A025;
 }
 .portfolio > a, .portfolio > a:hover {
 	color: #ffffff;
@@ -1267,7 +1268,7 @@ p.quote {
 	color: #151515;
 }
 .post-title a:hover {
-	color: #FFD600;
+	color: #C0A025;
 }
 .post-tags {
 	margin-top: 20px;
@@ -1300,7 +1301,7 @@ p.quote {
 	text-decoration: none;
 }
 .post-tags li a:hover {
-	color: #FFD600;
+	color: #C0A025;
 }
 .post-meta {
 	font-size: 11px;
@@ -1342,7 +1343,7 @@ p.quote {
 	text-decoration: none;
 }
 .tags-list li a:hover {
-	color: #FFD600;
+	color: #C0A025;
 }
 .blog-tweet {
 	font-size: 11px;
@@ -1377,12 +1378,12 @@ p.quote {
 	color: #151515;
 }
 .pages li a.current {
-	border-top: 2px solid #FFD600;
-	border-bottom: 2px solid #FFD600;
+	border-top: 2px solid #C0A025;
+	border-bottom: 2px solid #C0A025;
 	color: #1c1f26;
 }
 .pages li a:hover {
-	color: #FFD600;
+	color: #C0A025;
 }
 .pagination a.previous, .pagination a.next {
 	height: 24px;
@@ -1399,7 +1400,7 @@ p.quote {
 	text-align: center;
 }
 .pagination a.previous:hover, .pagination a.next:hover {
-	background-color: #FFD600;
+	background-color: #C0A025;
 	color: white;
 }
 .pagination a.previous {
@@ -1535,7 +1536,7 @@ p.quote {
 	width: 100%;
 	margin-top: 30px;
 	padding: 40px 0;
-	background: #FFD600;
+	background: #C0A025;
 	color: rgba(0, 0, 0, 0.7);
 	font-size: 11px;
 }
@@ -1846,7 +1847,7 @@ input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focu
 /* ------------------------------------------------------------------------ */
 
 nav.colored, nav.light.colored {
-	background: #ffd600;
+	background: #C0A025;
 	box-shadow: 0px 4px 15px rgba(0,0,0,0.07);
 	border-bottom: 0px;
 }
